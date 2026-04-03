@@ -124,10 +124,4 @@ Tool-augmented agents
 <a href="https://github.com/saadenr"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
----
-
-<p align="center">
-⚡ <b>Open to AI Engineer / GenAI / LLM roles — Available January 2026</b>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
