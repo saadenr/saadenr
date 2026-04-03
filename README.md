@@ -1,108 +1,101 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Saad Ennigro</h1>
+<h3 align="center">🤖 AI Engineer | LLM, RAG & GenAI Systems</h3>
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=saadenr&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<div align="center">
-  <h1 style="display: inline-block">Hi 👋, I'm Saad Ennigro</h1>
-  <h3 align="center">Data Scientist specialized in NLP & Large Language Models (LLMs)</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE5eWtpbWp5cTR0cGJvMWF1ZDhxcXk0b3FidzBkdW40MXUwdDloYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="320" height="320" frameBorder="0">
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h4 style="display: inline-block">Confusion is part of Programming — Understanding is what follows.</h4></summary>
-  </ul>
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadenr&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saadenr&theme=dark&hide_border=false" /> 
-
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saadenr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=saadenr&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-
-</p>        
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Work With 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,angular,nodejs,express,django,flask,tensorflow,pytorch,mysql,postgresql,mongodb,aws,azure,docker,git,github,gitlab,linux,vscode,postman,figma&perline=8" />
-  </a>
+AI Engineer specialized in <b>Large Language Models, RAG pipelines, and AI agents</b>, with hands-on experience in designing and deploying <b>production-grade GenAI systems</b> (LLMOps, cloud, microservices).  
+I build <b>scalable AI solutions</b> that transform unstructured data into business value.
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- Specialization Section -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🧠 Areas of Expertise</h2></summary>
-  </ul>
-</div>
+## 🚀 What I Do
+
+- 🔹 Design **RAG pipelines (multi-source: FAISS, OpenSearch)**
+- 🔹 Build **LLM agents with tools (LangChain, APIs, databases)**
+- 🔹 Develop **GenAI SaaS platforms (AI audit, compliance, bias detection)**
+- 🔹 Deploy **production-ready AI systems (Docker, CI/CD, cloud)**
+- 🔹 Implement **semantic search & retrieval systems at scale**
+
+---
+
+## 🧠 Professional Experience
+
+### 🔹 GenAI Engineer – OpinionScience (Paris)
+- Built **multi-source RAG systems** for querying client & business data  
+- Developed **LLM agents interacting with APIs, DBs & microservices**  
+- Created **AuditLLM** → AI audit SaaS (bias, GDPR, AI Act compliance)  
+- Lead developer on **EU project PROMPT** (disinformation detection)  
+- Designed **serverless data pipelines (GCP: Cloud Run, Tasks, Scheduler)**  
+- Industrialized AI systems with **Docker + GitLab CI/CD**
+
+---
+
+### 🔹 Data Scientist NLP – ENGIE Lab CRIGEN
+- Optimized **large-scale semantic search pipelines**
+- Benchmarked **RAG strategies (BM25, Hybrid, HyDE, MultiQuery)**
+- Built **topic modeling & weak signal detection systems (BERTopic, LDA)**
+- Deployed pipelines with **Docker & Kubeflow**
+
+---
+
+## 🛠️ Tech Stack
+
+**LLM & GenAI**  
+LangChain • LlamaIndex • Hugging Face • RAG • Agents  
+
+**ML / NLP**  
+PyTorch • TensorFlow • spaCy • BERTopic • GLiNER  
+
+**Search & Vector DB**  
+FAISS • ChromaDB • OpenSearch  
+
+**Backend & APIs**  
+Python • FastAPI • Node.js • Express  
+
+**Cloud & MLOps**  
+Docker • GitLab CI/CD • GCP • AWS • Azure • Kubeflow  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **AuditLLM (AI Audit Platform)**  
+→ Bias detection & compliance (GDPR / AI Act)  
+→ SaaS architecture + LLM pipelines  
+
+🔹 **Multi-source RAG System**  
+→ FAISS + OpenSearch hybrid retrieval  
+→ Enterprise document querying  
+
+🔹 **LLM Agent System**  
+→ Tool-augmented agents interacting with APIs & databases  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced **RAG architectures (Hybrid, MultiQuery, HyDE)**
+- **LLM agents orchestration**
+- **Production LLM systems (LLMOps)**
+- **AI safety & compliance**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  🔹 Natural Language Processing (NLP) & Large Language Models (LLMs) <br>
-  🔹 RAG Pipelines, Semantic Search, NER, and Topic Modeling <br>
-  🔹 AI Ethics, Bias Detection, and Data Privacy <br>
-  🔹 MLOps, CI/CD, Docker, and Cloud Deployment <br>
-  🔹 Data Visualization & Dashboards (Power BI, Streamlit, Gradio)
+  <img src="https://github-readme-stats.vercel.app/api?username=saadenr&theme=dark&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadenr&theme=dark" />
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Let's Connect 🤝</h2></summary>
-  </ul>
-</div>
+## 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-ennigro/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:saadennigro@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982821-90763d66-431a-4d0e-8d8c-4b3d0f9b3313.png" alt="gmail" height="50" width="50" /></a>
-<a href="https://discord.com/users/saadoune" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://github.com/saadenr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982834-5b90f78d-1a5f-4a3c-b5c2-2a3c81b3f457.png" alt="github" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/saad-ennigro/" target="blank">LinkedIn</a> •
+<a href="mailto:saadennigro@gmail.com" target="blank">Email</a> •
+<a href="https://github.com/saadenr" target="blank">GitHub</a>
 </p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
